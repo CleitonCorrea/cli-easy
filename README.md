@@ -1,2 +1,26 @@
-# CLI-Dev-Backend
-Projeto criado para demonstrar a criação de sua própria interface de comandos e criar estruturas de forma simples com a ferramenta Gluegun a mesma ferramenta utilizada pela CLI do React Native
+# cli-dev-backend CLI
+
+A CLI for cli-dev-backend.
+
+## Customizing your CLI
+
+Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
+
+## Publishing to NPM
+
+To package your CLI up for NPM, do this:
+
+```shell
+$ npm login
+$ npm whoami
+$ npm test
+
+$ npm run build
+
+$ npm publish
+```
+
+# License
+
+MIT - see LICENSE
+
