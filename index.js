@@ -1,10 +1,10 @@
-const name = 'James'
+const name = 'CLI Dev Back'
 const person = { first: name }
 
 console.log(person)
 
 const sayHelloLinting = (fName) => {
-    console.log(`Hello linting, ${fName}`)
+    console.log(`testing conection..., ${fName}`)
 }
 
-sayHelloLinting('James')
+sayHelloLinting('CLI Dev Back')
