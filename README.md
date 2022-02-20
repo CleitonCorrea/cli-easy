@@ -1,6 +1,6 @@
-# cli-dev-backend CLI
+# EASY CLI
 
-A CLI for cli-dev-backend.
+A CLI for devs backend.
 
 ## Customizing your CLI
 
